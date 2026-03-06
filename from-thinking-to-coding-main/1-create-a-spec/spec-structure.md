@@ -2,7 +2,7 @@
 
 ## Writing the spec document
 
-### How to create it
+### How to create amit
 - Add it to the same opportunity assessment as its own section, "Detailed spec"
 
 ### Architecture and system design
